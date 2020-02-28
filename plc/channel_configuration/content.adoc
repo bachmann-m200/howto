@@ -1,0 +1,5 @@
+=== channels configuration
+		- Under "online device" -> Hardware -> Station1
+		- Save configuration -> restart "online device"
+		
+image::test/gif_englisch/channels_configuration.gif[]
