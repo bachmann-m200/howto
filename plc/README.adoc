@@ -1,9 +1,9 @@
 = PLC
 
 
-<<create_project/README.adoc, create project>>
-
-
 https://github.com/bachmann-m200/howto/blob/master/plc/create_project/README.adoc[create project]
+
+
+./create_project/README.adoc[create project]
 
 
