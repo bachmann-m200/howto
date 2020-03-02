@@ -1,0 +1,9 @@
+=== modify IP adress
+			
+			- Set H-Switch of CPU to "PROG"
+			- Change IP -> enter IP-Address -> finish
+			
+image::modify_IP_adress.gif[]
+			
+IMPORTANT:  
+Set H-switch to "RUN" again (otherwise CPU will switch to "ERROR" on restart)
