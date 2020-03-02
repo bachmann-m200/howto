@@ -1,0 +1,8 @@
+=== device identification
+			- in case of more than one devices, mark the name of the CPU and click the Blink-button. 
+
+image::device_identification.gif[]
+
+			- if the CPU is correct than blink the first LED of the CPU
+
+image::Blinken.gif[]
