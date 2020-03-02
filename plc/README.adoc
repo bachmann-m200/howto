@@ -2,7 +2,7 @@
 
 == https://github.com/bachmann-m200/howto/blob/master/plc/create_project/README.adoc[.. create project]
 
-== https://github.com/bachmann-m200/howto/blob/master/plc/channel_configuration/README.adoc[.. namend hardware channel]
+== https://github.com/bachmann-m200/howto/blob/master/plc/channel_configuration/README.adoc[.. channel configuration]
 
 
 
