@@ -1,0 +1,6 @@
+
+=== rename a Device 
+			 
+- Click on device name and rename	it
+			
+image::rename_device.gif[]
