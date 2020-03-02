@@ -1,0 +1,7 @@
+=== add a Device
+	- Right click on Project -> New -> Device
+	- Select folder: Search device in the network (preferably) or add manually -> continue +
+	
+image::add_device.gif[]
+	
+			- All available hardware are displayed
