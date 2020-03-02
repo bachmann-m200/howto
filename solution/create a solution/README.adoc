@@ -1,0 +1,4 @@
+=== create Solution_Project
+	- Right click on Solution Projects -> new solution -> write your own name
+
+image::New_Solution.gif[]
