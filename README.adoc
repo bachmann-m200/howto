@@ -3,9 +3,29 @@
 
 == How to ..
 
-=== .. create a solution
+=== .. first step
 
-=== .. create a device
+=== .. add device
+
+=== .. change language
 
 === .. create a device protocol
+
+=== .. create a solution
+
+=== .. device identification
+
+=== .. device reset
+
+=== .. insert device in project
+
+=== .. install OPCUA
+
+=== .. modify IP_Adress
+
+=== .. rename device
+
+=== .. Tips
+
+
 
