@@ -1,0 +1,7 @@
+=== insert device in Project
+
+	- Select project -> finish +
+	
+image::insert_device_to_project.gif[]	
+	
+	- Now you can create a new project
