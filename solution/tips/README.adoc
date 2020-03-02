@@ -1,0 +1,7 @@
+=== Tip
+
+IMPORTANT: it is necessary to set "Permit application development" by +
+  
+	- System -> Security -> System Settings: +			 
+
+TIP: Keyboard shortcuts in SolutionCenter: (Shift + Ctrl + L)
