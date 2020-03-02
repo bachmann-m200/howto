@@ -1,4 +1,0 @@
-= .. create a device protocol
-
-
-adadada
