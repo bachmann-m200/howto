@@ -1,0 +1,12 @@
+=== install OPCUA_Modul
+
+	- Right click on Services -> New -> Service -> Search the ".m file" to install
+	- chop off "Checkclientcert" -> finish -> Restart
+	
+IMPORTANT: If the CPU shows red: +
+	
+	- Right click on Device -> Systemupdate -> choose a System catalog -> mark Security -> finish -> Restart
+
+	
+image::install_OPCUA.gif[]
+	
