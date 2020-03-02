@@ -1,0 +1,7 @@
+
+=== import hardware 
+		- Right click on Neu_Projekt -> Import Hardware Configuration -> mark the appropriate "online device" and select modules
+		
+image::import_hardware.gif[]	
+	
+		- Under Configuration -> process image -> Station1, you can check the channels configuration
