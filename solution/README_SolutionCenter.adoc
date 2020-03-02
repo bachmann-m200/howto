@@ -1,0 +1,14 @@
+= SolutionCenter how to..
+
+== https://github.com/bachmann-m200/howto/blob/master/solution/first%20step/README.adoc[..first step]
+== https://github.com/bachmann-m200/howto/blob/master/solution/add%20a%20device/README.adoc[.. add device]
+== https://github.com/bachmann-m200/howto/blob/master/solution/change%20language/README.adoc[..change language]
+== https://github.com/bachmann-m200/howto/blob/master/solution/create%20a%20solution/README.adoc[..create solution project]
+== https://github.com/bachmann-m200/howto/blob/master/solution/create%20device%20protocol/README.adoc[..create device protocol]
+== https://github.com/bachmann-m200/howto/blob/master/solution/device%20identification/README.adoc[..device identification]
+== https://github.com/bachmann-m200/howto/blob/master/solution/device%20reset/README.adoc[..device reset]
+== https://github.com/bachmann-m200/howto/blob/master/solution/insert%20a%20device%20in%20project/README.adoc[..insert device]
+== https://github.com/bachmann-m200/howto/blob/master/solution/install%20OPCUA/README.adoc[..install OPCUA]
+== https://github.com/bachmann-m200/howto/blob/master/solution/modiy%20IP-adress/README.adoc[..modify IP_Adress]
+== https://github.com/bachmann-m200/howto/blob/master/solution/rename%20device/README.adoc[..rename device]
+== https://github.com/bachmann-m200/howto/blob/master/solution/tips/README.adoc[..Tips]
