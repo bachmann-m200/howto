@@ -1,31 +1,6 @@
 
-== Content
+== Content..
 
-== How to ..
-
-=== .. first step
-
-=== .. add device
-
-=== .. change language
-
-=== .. create a device protocol
-
-=== .. create a solution
-
-=== .. device identification
-
-=== .. device reset
-
-=== .. insert device in project
-
-=== .. install OPCUA
-
-=== .. modify IP_Adress
-
-=== .. rename device
-
-=== .. Tips
-
-
-
+=== https://github.com/bachmann-m200/howto/tree/master/solution[.. SolutionCenter]
+=== https://github.com/bachmann-m200/howto/tree/master/plc[.. PLC-developer]
+=== https://github.com/bachmann-m200/howto/tree/master/cpp[.. C++]
