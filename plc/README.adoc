@@ -6,5 +6,11 @@
 
 == https://github.com/bachmann-m200/howto/blob/master/plc/import%20hardware/README.adoc[.. import hardware]
 
+== https://github.com/bachmann-m200/howto/blob/master/plc/insert_library/README.adoc[.. insert library]
+
+== https://github.com/bachmann-m200/howto/blob/master/plc/quick%20statement%20notation/README.adoc[.. quick statement notation]
+
+== https://github.com/bachmann-m200/howto/blob/master/plc/quick%20variable%20notation/README.adoc[.. quick variable notation]
+
 
 
