@@ -1,0 +1,5 @@
+=== first step
+
+open the Solution Center -> click on "Workbench" 
+
+image::first_step.gif[]
