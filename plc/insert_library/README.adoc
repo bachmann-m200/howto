@@ -1,1 +1,5 @@
+=== insert library
+		- Right click on New_Project -> Add/Update Library
+		- Select library -> finish
 
+image::insert_library.gif[]
