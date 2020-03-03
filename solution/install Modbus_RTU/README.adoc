@@ -1,1 +1,15 @@
+=== install/configure Modbus_RTU Master
 
+    - under hardware: add a new hardware module -> choose mbm201 -> own configuration of cardNb, SlotNb -> activate `OptNode´ 
+    - to MBM select: MODBUS RTU by protocol and `COM2´ by ComDevice -> finish -> reboot
+    - now you can configure Comdevice under: System -> communication -> interfaces -> COM2 (Baudrate: 19200, Transfer mode: RS485/422)
+    - under Networks: select Modbus Network module -> add a channel -> change Channel Properties -> finish
+    
+
+=== install/configure Modbus_TCP Slave
+
+    - install Modbus_Modul under: Software -> Applications -> new -> SW-Modul -> choose modbus.m
+    - double click Modbus_Modul to configure it: MODBUS TCP by Protocol and activate `UseMappingFile´ by Mappings to create your own variable
+    - the adress of slave and Master must be 
+    
+    
