@@ -1,1 +1,19 @@
+=== install/configure Modbus_TCP Slave
 
+    - install Modbus_Modul under: Software -> Applications -> new -> SW-Modul -> choose modbus.m
+    - double click Modbus_Modul to configure it: Modbus -> MODBUS TCP by Protocol and activate `UseMappingFile´ by Mappings to create your own variable
+    - select the MappingFile in cfc0: "mbSlv.csv"
+    
+    
+    
+    
+    
+    
+    
+=== install/configure Modbus_RTU Slave
+
+the process is nearly as Modbus_TCP, by configuration of Modbus_Modul:
+- under Modbus: Protocol -> MODBUS RTU and Comdevice -> COM2
+
+
+    - the adress of slave and Master must be 
