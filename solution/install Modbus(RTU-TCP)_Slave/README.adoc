@@ -12,8 +12,8 @@
     
 === install/configure Modbus_RTU Slave
 
-the process is nearly as Modbus_TCP, by configuration of Modbus_Modul:
-- under Modbus: Protocol -> MODBUS RTU and Comdevice -> COM2
+the process is nearly at Modbus_TCP, by configuration of Modbus_Modul:
+    - under Modbus: Protocol -> MODBUS RTU and Comdevice -> COM2
 
 
     - the adress of slave and Master must be 
