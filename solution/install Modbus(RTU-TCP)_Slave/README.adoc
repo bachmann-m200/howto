@@ -3,8 +3,8 @@
     - install Modbus_Modul under: Software -> Applications -> new -> SW-Modul -> choose modbus.m
     - double click Modbus_Modul to configure it: Modbus -> MODBUS TCP by Protocol and activate `UseMappingFile´ by Mappings to create your own variable
     - select the MappingFile in cfc0: "mbSlv.csv"
-    
-    
+   
+image::install Modbus_TCP Slave.gif    
     
     
     
