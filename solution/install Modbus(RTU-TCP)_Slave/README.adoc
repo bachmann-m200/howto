@@ -13,6 +13,7 @@
 === install/configure Modbus_RTU Slave
 
 the process is nearly at Modbus_TCP, by configuration of Modbus_Modul:
+
     - under Modbus: Protocol -> MODBUS RTU and Comdevice -> COM2
 
 
