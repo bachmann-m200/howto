@@ -6,4 +6,4 @@
     Transfer mode: RS485/422)
     - under Networks: select Modbus Network module -> Channels -> add channel -> change Channel Properties -> finish
     
-    
+image::install Modbus_RTU Master.gif[]
