@@ -15,3 +15,4 @@
 == https://github.com/bachmann-m200/howto/blob/master/solution/install%20Modbus(RTU-TCP)_Slave/README.adoc[.. install ModbusRTU/TCP_Slave]
 == https://github.com/bachmann-m200/howto/blob/master/solution/install%20Modbus_RTU/README.adoc[.. install Modbus_RTU Master]
 == https://github.com/bachmann-m200/howto/blob/master/solution/install%20Modbus_TCP/README.adoc[.. install Modbus_TCP Master]
+== https://github.com/bachmann-m200/howto/blob/master/solution/Boot%20per%20FTP/README.adoc[.. Boot per FTP]
