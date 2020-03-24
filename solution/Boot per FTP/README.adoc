@@ -1,1 +1,16 @@
 
+=== Boot device per FTP
+
+FRTA_MX213 is booted via FTP
+
+  - New folder (MX213) on cfc0 from the host device
+  - Create subfolders (app, drv, sys) and load the corresponding file and config.ini using drag and drop.
+  - Under FRTA_MX213: System -> Boot Parameters -> Boot Settings -> Add -> Server(host:) -> Up
+  - under Bootserver:
+      * Subdirectory: /MX213
+      * IP Adress:    host IP eingeben
+  - Under Advanced:
+      * OS file name: sys/MxCCore
+	
+image::FTP_Boot.gif[]
+	
