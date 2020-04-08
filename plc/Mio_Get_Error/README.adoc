@@ -19,7 +19,7 @@
      - after reboot hardware symbol will show red(error).
      - we can have this error in plc using function `MIO_GetError´
                           
-image::Limit not activated.png[]     
+image::Limit not activated.gif[]     
 
     
 
