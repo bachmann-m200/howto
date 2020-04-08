@@ -2,7 +2,7 @@
 
 == Current configuration from GIO212 in SolutionCenter
 
-        === Case of Limit as error not activated
+=== Case of Limit as error not activated
 
     - click on GIO212
     - go to primary Channels 01-02
@@ -21,5 +21,17 @@
                           
 image::Limit not activated.gif[]     
 
-    
+== Build function Mio in plc
+
+        - create a new PLC_Projekt
+        - insert Mio_plc.plclib
+        - create a function to get error
+        - Call function in plc_Prg
+        - Compile and debug the plc_Prg
+        - With a breakpoint we can have under `State´ the error
+        - error is delivered in form of a 32 bits
+        - in this case status = 65540 => Open circuit, Lowerrange exceeded(on device protocol)
+        
+image::plc_simulate.gif[]
+image::Function_Error.png[]
 
