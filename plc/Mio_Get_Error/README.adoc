@@ -11,5 +11,5 @@
                           * Mode:     CurrentOut
                           * Range:    0-20mA
                           
-image::Limit not activated[]        
+image::Limit not activated.png[]        
 
