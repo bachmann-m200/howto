@@ -2,7 +2,7 @@
 
 == Current configuration from GIO212 in SolutionCenter
 
-=== Case of Limit as error not activated
+=== Case of Limit as error is not activated
 
     - click on GIO212
     - go to primary Channels 01-02
@@ -29,9 +29,28 @@ image::Limit not activated.gif[]
         - Call function in plc_Prg
         - Compile and debug the plc_Prg
         - With a breakpoint we can have under `State´ the error
-        - error is delivered in form of a 32 bits
-        - in this case status = 65540 => Open circuit, Lowerrange exceeded(on device protocol)
+        - The error information is returned in form of a bit mask
+        - in this case: status = 65540 => Open circuit, Lowerrange exceeded(on device protocol)
         
 image::plc_simulate.gif[]
+
+       - Function to get error_information
+       
 image::Function_Error.png[]
 
+=== Case of Limit as error is activated
+
+    - The configuration of GIO212 is almost the same as above, the only change is to activate `Limit as Error´ from primary channel:
+    
+            -> Primary Channel 1:  
+                                      * Mode:     CurrentIn
+                                      * Range:    4-20mA 
+                                      * Upper limit: 21mA
+                                      * Lower limit: 3mA
+                                      * Limit as erroR: activate
+                                      
+image::Limit_error activate.png[]
+                                      
+    - in this case: status = 65536 => Lowerrange exceeded(on device protocol)   
+    
+image::Debug_Limit error activate.png[]
