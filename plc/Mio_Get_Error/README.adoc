@@ -1,8 +1,11 @@
 = Read specific error and event interrupts from GIO212, AIO216 and AIO208 in PLC
 
-== First step: Current configuration from GIO212 in SolutionCenter
+== Current configuration from GIO212 in SolutionCenter
 
-    ->   Limits as error:   not activated
+        * Case of Limit as error not activated
+
+    -> click on GIO212
+    -> go to primary Channels 01-02
 
     - Primary Channel 1:  
                           * Mode:     CurrentIn
@@ -11,5 +14,12 @@
                           * Mode:     CurrentOut
                           * Range:    0-20mA
                           
-image::Limit not activated.png[]        
+     -> under pin Assignment you can see how the channels are connected
+     -> than now you can save the configuration and reboot.
+     -> after reboot hardware symbol will show red(error).
+     -> we can have this error in plc using function `MIO_GetError´
+                          
+image::Limit not activated.png[]     
+
+    
 
