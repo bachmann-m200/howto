@@ -1,6 +1,6 @@
-=== Read specific error and event interrupts from GIO212, AIO216 and AIO208 in PLC
+= Read specific error and event interrupts from GIO212, AIO216 and AIO208 in PLC
 
-     Example: Current configuration from GIO212 in SolutionCenter
+== First step: Current configuration from GIO212 in SolutionCenter
 
     ->   Limits as error:   not activated
 
