@@ -20,13 +20,13 @@
 ===  Possible configuration errors 
    
    - if `Limit as error´ is inactive and `CurrentIn < 4mA´ :   Open circuit, Lowerrange exceeded
-image::Limit not activated.gif[] 
+image::inactive_Ie_klein_4mA.png[] 
    - if `Limit as error´ is inactive and `CurrentIn > 20mA´ :  Upperrange exceeded
-image::Limit not activated.gif[] 
+image::inactive_Ie_gross_20mA.png[] 
    - if `Limit as error´ is aktiv and `CurrentIn < Lower limit(7mA)´:   Lowerrange exceeded
-image::Limit not activated.gif[] 
+image::aktiv_Ie_klein_7mA.png[] 
    - if `Limit as error´ is aktiv and `CurrentIn > Upper limit(19mA)´:  Upperrange exceeded
-image::Limit not activated.gif[] 
+image::aktiv_Ie_gross_19mA.png[] 
   
   
   
