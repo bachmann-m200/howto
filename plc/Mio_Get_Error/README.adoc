@@ -25,7 +25,7 @@ image::graphisch_error.png[]
    
 image::inactive_Ie_klein_4mA.png[] 
 
-   - if `Limit as error´ is inactive and `CurrentIn > 20mA´ :  Open circuit, Upperrange exceeded
+   - if `Limit as error´ is inactive and `CurrentIn > 20mA´ :   Upperrange exceeded
    
 image::inactive_Ie_gross_20mA.png[] 
 
@@ -61,13 +61,21 @@ image::Function_Error.png[]
 
 === Case of error in different configuration:
 
-- `Limit as error´ is (active or inactive) and `CurrentIn < Lower limit or 4mA´: State = 65540   =>  Open circuit, Lowerrange exceeded
+- `Limit as error´ is (inactive) and `CurrentIn < 4mA´: State = 65540   =>  Open circuit, Lowerrange exceeded
 
 image::erste Fall(65540).png[]
 
-- `Limit as error´ is (active or inactive) and `CurrentIn > Upper limit or 20mA´:  State = 131076 => Open circuit, Upperrange exceeded
+- `Limit as error´ is (inactive) and `CurrentIn > 20mA´:  State = 131072 => Upperrange exceeded
 
-image::OC_Uexceeded.png[]
+image::inactive_20mA.png[]
+
+- `Limit as error´ is (active) and `CurrentIn < Lower limit´:  State = 65536 => Lowerrange exceeded
+
+image::active_7mA.png[]
+
+- `Limit as error´ is (active) and `CurrentIn > Upper limit´:  State = 131072 => Upperrange exceeded
+
+image::active_19mA.png[]
 
 IMPORTANT:  constants for error interrupts
 
