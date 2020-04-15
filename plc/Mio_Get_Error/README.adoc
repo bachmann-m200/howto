@@ -20,16 +20,19 @@
 ===  Possible configuration errors 
    
    - if `Limit as error´ is inactive and `CurrentIn < 4mA´ :   Open circuit, Lowerrange exceeded
+image::Limit not activated.gif[] 
    - if `Limit as error´ is inactive and `CurrentIn > 20mA´ :  Upperrange exceeded
+image::Limit not activated.gif[] 
    - if `Limit as error´ is aktiv and `CurrentIn < Lower limit(7mA)´:   Lowerrange exceeded
+image::Limit not activated.gif[] 
    - if `Limit as error´ is aktiv and `CurrentIn > Upper limit(19mA)´:  Upperrange exceeded
+image::Limit not activated.gif[] 
   
   
   
 IMPORTANT:  if Disable errors is activated, all errors are eliminated: +
 
-                          
-image::Limit not activated.gif[]     
+                              
 
 == Build function Mio in plc
 
