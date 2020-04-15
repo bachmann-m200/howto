@@ -23,19 +23,19 @@ image::graphisch_error.png[]
    
    - if `Limit as error´ is inactive and `CurrentIn < 4mA´ :   Open circuit, Lowerrange exceeded
    
-image::inactive_Ie_klein_4mA.png[] : +
+image::inactive_Ie_klein_4mA.png[] 
 
-   - if `Limit as error´ is inactive and `CurrentIn > 20mA´ :  Upperrange exceeded
+   - if `Limit as error´ is inactive and `CurrentIn > 20mA´ :  Open circuit, Upperrange exceeded
    
-image::inactive_Ie_gross_20mA.png[] : +
+image::inactive_Ie_gross_20mA.png[] 
 
-   - if `Limit as error´ is aktiv and `CurrentIn < Lower limit(7mA)´:   Lowerrange exceeded
+   - if `Limit as error´ is aktiv and `CurrentIn < Lower limit(7mA)´: Open circuit, Lowerrange exceeded
    
-image::aktiv_Ie_klein_7mA.png[] : +
+image::aktiv_Ie_klein_7mA.png[] 
 
-   - if `Limit as error´ is aktiv and `CurrentIn > Upper limit(19mA)´:  Upperrange exceeded
+   - if `Limit as error´ is aktiv and `CurrentIn > Upper limit(19mA)´:  Open circuit, Upperrange exceeded
    
-image::aktiv_Ie_gross_19mA.png[] : +
+image::aktiv_Ie_gross_19mA.png[] 
   
   
   
@@ -43,7 +43,7 @@ IMPORTANT:  if `Disable errors´ is activated, all errors are eliminated: +
 
                               
 
-== Build function Mio in plc
+== How to get error in plc ?
 
         - create a new PLC_Projekt
         - insert Mio_plc.plclib
@@ -60,19 +60,20 @@ image::plc_simulate.gif[]
        
 image::Function_Error.png[]
 
-=== Case of Limit as error is activated
+=== Case of error in different configuration:
 
-    - The configuration of GIO212 is almost the same as above, the only change is to activate `Limit as Error´ from primary channel:
-    
-            -> Primary Channel 1:  
-                                      * Mode:     CurrentIn
-                                      * Range:    4-20mA 
-                                      * Upper limit: 21mA
-                                      * Lower limit: 3mA
-                                      * Limit as erroR: activate
+- `Limit as error´ is (active or inactive) and `CurrentIn < Lower limit or 4mA´: State = 65540   =>  Open circuit, Lowerrange exceeded
+
+image::erste Fall(65540).png[]
+
+- `Limit as error´ is (active or inactive) and `CurrentIn > Upper limit or 20mA´:  State = 131076 => Open circuit, Upperrange exceeded
+
+image::OC_Uexceeded.png[]
+
+Tips: constants for error interrupts
+
+Lowerrange exceeded = 16#00010000   =>      65536
+Upperrange exceeded = 16#00020000   =>      131072
+Open circuit        = 16#0004       =>      4
+
                                       
-image::Limit_error activate.png[]
-                                      
-    - in this case: status = 65536 => Lowerrange exceeded(on device protocol)   
-    
-image::Debug_Limit error activate.png[]
