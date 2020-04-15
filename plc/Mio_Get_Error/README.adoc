@@ -17,23 +17,25 @@
      - after reboot hardware symbol will show red(error).
      - we can have this error in plc using function `MIO_GetError´
      
-===  Possible configuration errors 
+===  Possible configuration errors and graphical representation
+
+image::graphisch_error.png[]
    
    - if `Limit as error´ is inactive and `CurrentIn < 4mA´ :   Open circuit, Lowerrange exceeded
    
-image::inactive_Ie_klein_4mA.png[] +
+image::inactive_Ie_klein_4mA.png[] 
 
    - if `Limit as error´ is inactive and `CurrentIn > 20mA´ :  Upperrange exceeded
    
-image::inactive_Ie_gross_20mA.png[] +
+image::inactive_Ie_gross_20mA.png[] 
 
    - if `Limit as error´ is aktiv and `CurrentIn < Lower limit(7mA)´:   Lowerrange exceeded
    
-image::aktiv_Ie_klein_7mA.png[] +
+image::aktiv_Ie_klein_7mA.png[] 
 
    - if `Limit as error´ is aktiv and `CurrentIn > Upper limit(19mA)´:  Upperrange exceeded
    
-image::aktiv_Ie_gross_19mA.png[] +
+image::aktiv_Ie_gross_19mA.png[] 
   
   
   
