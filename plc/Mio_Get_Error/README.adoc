@@ -83,7 +83,7 @@ IMPORTANT:  constants for error interrupts
 
 -> http://127.0.0.1:55297/help/topic/at.bachmann.msys.api.help/html/group___m_i_o-_d_e_f-_r_e_t.html?cp=0_6_0_1_2_3_2_0_57#ga604bd15a713d955d07417969f4fa3767
 
--> you can also have this specific description in Mio_plclib under global variables:
+- you can also have this specific description in Mio_plclib under global variables:
 
 image::constants.png
 
