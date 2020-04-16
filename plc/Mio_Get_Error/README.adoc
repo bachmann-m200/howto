@@ -89,4 +89,7 @@ image::constants.png[]
 
 image::specific error.png[]
 
+Lowerrange exceeded = 16#00010000   =>      65536   +
+Upperrange exceeded = 16#00020000   =>      131072  +
+Open circuit        = 16#0004       =>      4   +
                              
