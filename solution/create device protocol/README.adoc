@@ -1,6 +1,7 @@
 === create device protocol
 			
 		- Right click on "online device" -> create device protocol
-		- Select required information -> finish
+		- Select required information 
+		- select location -> finish
 		
 image::create_device_protocol.gif[]
