@@ -1,4 +1,9 @@
 === prepare the MX Slave
+
+- take a MX with some Hardware, in this example I add two DIO232 and two AIO288 and the first 16 Channels on the first Module  configurate to outputs.
+
+image::mxcan.gif[]
+
 - Create a CAN Network
 - Reboot
 - Change NetMode to Slave
@@ -28,4 +33,4 @@
 - Reboot
 
 
-image::add_device.gif[]
+
