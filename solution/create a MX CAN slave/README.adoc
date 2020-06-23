@@ -29,16 +29,27 @@ image::newslavenode.gif[]
 === Master
 - Create a CAN Network
 - Reboot
+
+image::mastercreatenet.gif[]
+
 - Scan the Bus
 - Choose the MX and add the configuration
-- Save
-- Reboot
+- Save and reboot
+
+image::mastercreatedevice.gif[]
+
 - Include HW-Modules with the Module Manager
 - Add RxPDO and put the write outputs in
 - Add TxPDO and put the read inputs in
 - Activate both PDOs and Mirror all PDOs to the Master
-- Save
-- Reboot
+- Save and reboot
+
+image::mastercreatepdo.gif[]
+
+- Test the Master and Slave I/Os
+
+image::masterslaveio.gif[]
+
 
 
 
