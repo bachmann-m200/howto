@@ -1,8 +1,9 @@
 === install/configure Modbus_TCP Slave
 
     - install Modbus_Modul under: Software -> Applications -> new -> SW-Modul -> choose modbus.m
-    - double click Modbus_Modul to configure it: Modbus -> MODBUS TCP by Protocol and activate `UseMappingFile´ by Mappings to create your own variable
-    - select the MappingFile in cfc0: "mbSlv.csv"
+    - double click Modbus_Modul to configure it: Modbus -> MODBUS TCP 
+    - activate `UseMappingFile´ by Mappings to create your own variable or create a Variable List
+    - select the MappingFile "mbSlv.csv" in cfc0.
    
 image::install Modbus_TCP Slave.gif[]    
     
