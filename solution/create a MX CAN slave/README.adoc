@@ -1,7 +1,31 @@
-=== add a Device
-	- Right click on Project -> New -> Device
-	- Select folder: Search device in the network (preferably) or add manually -> continue +
-	
+=== prepare the MX Slave
+- Create a CAN Network
+- Reboot
+- Change NetMode to Slave
+- Activate MapCard1
+- Add MapCardList1
+- Put in the Card that you want to map
+- Reboot
+- Create a new device MX2XX
+- Put in the Node Id that you want
+- Delete the Master with the ID64
+- Save
+- Reboot
+
+
+=== Master
+- Create a CAN Network
+- Reboot
+- Scan the Bus
+- Choose the MX and add the configuration
+- Save
+- Reboot
+- Include HW-Modules with the Module Manager
+- Add RxPDO and put the write outputs in
+- Add TxPDO and put the read inputs in
+- Activate both PDOs and Mirror all PDOs to the Master
+- Save
+- Reboot
+
+
 image::add_device.gif[]
-	
-			- All available hardware are displayed
