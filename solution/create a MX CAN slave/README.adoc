@@ -6,16 +6,24 @@ image::mxcan.gif[]
 
 - Create a CAN Network
 - Reboot
+
+image::newcan.gif[]
+
 - Change NetMode to Slave
 - Activate MapCard1
 - Add MapCardList1
 - Put in the Card that you want to map
-- Reboot
+- Save and reboot
+
+image::netmode.gif[]
+
 - Create a new device MX2XX
 - Put in the Node Id that you want
 - Delete the Master with the ID64
-- Save
-- Reboot
+- Save and reboot
+
+image::newslavenode.gif[]
+
 
 
 === Master
