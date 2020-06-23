@@ -1,10 +1,9 @@
 === install/configure Modbus_TCP Master
 
-    - under hardware: add a new hardware module -> choose mbm201 -> own configuration of cardNb, SlotNb -> activate `OptNode´ 
+    - under hardware: add a new hardware module -> choose mbm201 -> own configuration of cardNb, SlotNb and NetNb
+    - activated `OptNode´ 
     - enter SlaveIP
-    - to MBM select: MODBUS TCP by protocol -> finish -> reboot
-    - now you can configure Comdevice under: System -> communication -> interfaces -> COM2 (Baudrate: 19200, 
-    Transfer mode: RS485/422)
+    - to MBM1 select: MODBUS TCP by protocol -> finish -> reboot
     - under Networks: select Modbus Network module -> Channels -> add channel -> change Channel Properties -> finish
     
 image::install Modbus_TCP Master.gif[]
