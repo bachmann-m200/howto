@@ -15,7 +15,7 @@ the process is nearly at Modbus_TCP, by configuration of Modbus_Modul:
     - under Modbus: Protocol -> MODBUS RTU and Comdevice -> COM2
     - System- -> Communication -> Interfaces -> COM2(Baudrate = 19200, Transfer mode: RS485)
     - under mconfig.ini:
-            -> ``COM2MaxCycle = 2000´´ 
-            -> TickRate >= 5000
+            * ``COM2MaxCycle = 2000´´ 
+            * TickRate >= 5000
 
 image::install Modbus_RTU Slave.gif[]
