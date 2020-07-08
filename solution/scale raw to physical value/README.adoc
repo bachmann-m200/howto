@@ -9,4 +9,4 @@
   - reboot
   - The defined name is displayed in `Variables View´
   
-  image::scaling.gif[]
+image::scaling.gif[]
