@@ -14,5 +14,5 @@
   - the components can also be inserted directly under "project.jason"
   
   
-image::CNG.gif
+image::CNG.gif[]
   
