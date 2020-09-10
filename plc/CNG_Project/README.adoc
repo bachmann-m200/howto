@@ -8,7 +8,7 @@
   - Right click on project -> Cng Editor -> select project -> add component -> select pattern
   - by entering the name under "Identifier/Name", a global variable with the same name is generated
   - all generated components are located under the folder "Location"
-  - Enter varaible-name
+  - Enter variable-name
   - save and create PLC
   - now all patterns are excluded and global variables are generated
   - the components can also be inserted directly under "project.jason"
