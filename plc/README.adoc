@@ -14,3 +14,5 @@
 
 == https://github.com/bachmann-m200/howto/blob/master/plc/Mio_Get_Error/README.adoc[.. Mio_Get_error]
 
+== https://github.com/bachmann-m200/howto/blob/master/plc/CNG_Project/README.adoc[.. CNG_Project]
+
