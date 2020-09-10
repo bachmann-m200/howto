@@ -1,1 +1,18 @@
+=== Create a CNG project
 
+  - the MBase V4.39 is currently required
+  - click on PLC perspective then on CNG symbol and fill it
+  - create a pattern in CFC or ST
+  - a cng-folder is created with 3 sub-folders ( functions, pattern, types)
+  - click on the pattern symbol and edit it
+  - Right click on project -> Cng Editor -> select project -> add component -> select pattern
+  - by entering the name under "Identifier/Name", a global variable with the same name is generated
+  - all generated components are located under the folder "Location"
+  - Enter varaible-name
+  - save and create PLC
+  - now all patterns are excluded and global variables are generated
+  - the components can also be inserted directly under "project.jason"
+  
+  
+image::CNG.gif
+  
