@@ -1,6 +1,6 @@
-=== connect external webpage using M1
+== connect external webpage using M1
 
-== First method
+=== First method
 
   - install webMI on M1
   - add a webMI-server
