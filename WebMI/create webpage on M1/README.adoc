@@ -24,7 +24,7 @@ image::Webpage.gif[]
  - open "Main-diplay" and insert Iframe and buttons to open diplays
  - for each button insert a simple dynamics animation +
   1.Event: Mouse -> Click +
-  3.ACTION: Window -> Change display -> activate "U" and add the adress
+  3.ACTION: Window -> Change display -> activate "U" and add the adress +
   Target: name of the iframe display "myframe"
  - now you can distribute and browse your project
  
