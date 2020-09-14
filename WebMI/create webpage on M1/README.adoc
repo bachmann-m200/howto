@@ -13,5 +13,20 @@
   - now you can distribute and browse your project
   
 image::Webpage.gif[]
+
+
+=== Second method
   
+ the process is almost the same but with little configuration
+ 
+ - install webMI on M1
+ - add a webMI-server
+ - open "Main-diplay" and insert Iframe and buttons to open diplays
+ - for each button insert a simple dynamics animation +
+  1.Event: Mouse -> Click +
+  3.ACTION: Window -> Change display -> activate "U" and add the adress
+  Target: name of the iframe display "myframe"
+ - now you can distribute and browse your project
+ 
+image::Webpage_2.gif[]
   
