@@ -7,7 +7,7 @@
   - under "MAIN-Folder" or "Display Pool" add displays that you need
   - enter the URL at each display
   - insert (style = "width:100%;height:100%") for maximizing side opening
-  - open "Main-diplay" and insert Iframe and buttons to open diplays
+  - open "Main-diplay" insert Iframe and buttons to open diplays
   - for each button choose the right display under"target display" and under "target frame" the name of iframe-displays should be entered +
   in this case is: "myframe"
   - now you can distribute and browse your project
