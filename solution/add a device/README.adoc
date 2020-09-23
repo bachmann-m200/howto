@@ -8,6 +8,9 @@ image::add_device.gif[]
 
 
 
-=== YouTube How to connect to your M1 controller
+=== further information
+
+==== YouTube How to connect to your M1 controller
+
 [link=https://youtu.be/nQ7cowCpsRs] 
-image::http://img.youtube.com/vi/nQ7cowCpsRs/2.jpg[YouTube Connect to Controller,400,400] 
+image::http://img.youtube.com/vi/nQ7cowCpsRs/2.jpg[YouTube Connect to Controller,600,400] 
