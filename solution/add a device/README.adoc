@@ -7,5 +7,5 @@ image::add_device.gif[]
 			- All available hardware are displayed
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-video::nQ7cowCpsRs[youtube]
+
+http://img.youtube.com/vi/nQ7cowCpsRs/0.jpg[YouTube Connect to Controller] 
