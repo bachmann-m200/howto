@@ -8,4 +8,11 @@ image::add_device.gif[]
 
 
 
+[#YouTube Connect to Controller] 
+Bla Bla
+[link=https://youtu.be/nQ7cowCpsRs] 
+image::http://img.youtube.com/vi/nQ7cowCpsRs/2.jpg[YouTube Connect to Controller,300,200] 
+
+image::http://img.youtube.com/vi/nQ7cowCpsRs/2.jpg[title="YouTude connect to controller" opts="interactive,inline" width="500" height="400"] 
+
 http://img.youtube.com/vi/nQ7cowCpsRs/0.jpg[YouTube Connect to Controller] 
