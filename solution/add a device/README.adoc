@@ -5,3 +5,5 @@
 image::add_device.gif[]
 	
 			- All available hardware are displayed
+			
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nQ7cowCpsRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
