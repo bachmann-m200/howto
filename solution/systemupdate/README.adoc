@@ -1,1 +1,17 @@
+=== Update VxWorks system 
+
+    - Right-click Online Device and select System Update
+    - Select system catalog and click on <Next>
+    
+image::Systemkatalog.png[]
+    
+    - Select components to be updated and click on <Next>
+    
+image::Komponente.png[]
+
+    - Select firmware and click on <Finish>
+    
+image::Firmewareupdate.png[]
+
+
 
