@@ -11,7 +11,7 @@ image::install_saros.png[]
 
 === Using Saros in Solutioncenter
 
-  - if Saros is not there press the "Search symbol" and enter "Saros" +
+  - if Saros is not there press the "Search symbol" and enter "Saros" 
   
  and it should show up like this:
  
@@ -20,6 +20,13 @@ image:search_icon.png[]
   - to use Saros, you have to create an account under the following link + 
  
 https://saros-con.imp.fu-berlin.de:5280/register/new 
+
+  - add your account-data (Username and Password)
+
+image::add_account.png[]
+image::account_connected.png[]
+
+
 
 
 
