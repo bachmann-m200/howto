@@ -11,9 +11,7 @@ image::install_saros.png[]
 
 === Using Saros in Solutioncenter
 
-  - if Saros is not there press the "Search symbol" and enter "Saros" 
-  
- and it should show up like this:
+  - if Saros is not there press the "Search symbol" and enter "Saros" and it should show up like this:
  
 image:search_icon.png[]
  
