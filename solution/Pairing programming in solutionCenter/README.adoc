@@ -11,16 +11,16 @@ image::install_saros.png[]
 
 === Using Saros in Solutioncenter
 
-  - if Saros is not there press the "Search symbol" and enter "Saros" and it should show up like this:
+  - If Saros is not there press the "Search symbol" and enter "Saros" and it should show up like this:
  
 image:search_icon.png[]
  
-  - to use Saros, you have to create an account under the following link + 
+  - To use Saros, you have to create an account under the following link + 
  
   * https://saros-con.imp.fu-berlin.de:5280/register/new 
 
-==== add your account-data
-  - click on connect symbol -> Add account
+==== Add your account-data
+  - Click on connect symbol -> Add account
   
 image::add_account.png[]
 
@@ -39,18 +39,18 @@ image::add_contact.png[]
 
 === Tip
 
-IMPORTANT: pairing programming is currently possible only with C/C++ projects
+IMPORTANT: Pairing programming is currently possible only with C/C++ projects
 
 ==== share project
   - Right click on C/C++ project or Right click on "No Session Running" -> share projects -> select projects -> next
   
 image::select_project.png[]
 
-  - select contacts -> finish
+  - Select contacts -> Finish
   
 image::select_contact.png[]
  
-  - all projects that are shared are displayed like this:
+  - All projects that are shared are displayed like this:
   
 image::project_shared.jpg[]
 
