@@ -28,12 +28,12 @@ image::add_account.png[]
   
 image::log_datei.png[]
  
-  - account conncted
+  - Your account is now connected
  
 image::account_connected.png[]
 
 ==== Add contact(s)
-  - Right click on "contacts" and enter username
+  - Right click on "contacts" and enter their username
   
 image::add_contact.png[]
 
