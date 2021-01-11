@@ -15,7 +15,7 @@ image::install_saros.png[]
   
  and it should show up like this:
  
- image:search_icon.png[]
+image:search_icon.png[]
  
   - to use Saros, you have to create an account under the following link + 
  
