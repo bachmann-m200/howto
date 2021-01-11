@@ -1,1 +1,12 @@
+== Pairing programming with 2 or more User
+
+=== Installing Saros
+  - Go to: Help -> Eclipse Marketplace
+  
+image::eclipse.png[]
+
+  - Enter "Saros" -> Install -> Accept terms of license agreement -> Finish
+  
+image::install_saros.png[]
+
 
