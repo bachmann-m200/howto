@@ -28,7 +28,7 @@ image::add_account.png[]
 
   - Enter your Username and password
   
- image::log_datei.png[]
+image::log_datei.png[]
  
   - account conncted
  
@@ -59,7 +59,7 @@ image::project_shared.jpg[]
 ==== Test pairing
   - The following animation shows how the host (line 91) and guest (line 94) can work together in a project at the same time.
   
- image::saros_pairing.gif[]
+image::saros_pairing.gif[]
 
 
 
