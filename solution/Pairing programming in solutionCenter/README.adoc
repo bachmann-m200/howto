@@ -1,4 +1,4 @@
-== Pairing programming with 2 or more User
+== Pair programming with 2 or more User
 
 === Installing Saros
   - Go to: Help -> Eclipse Marketplace
