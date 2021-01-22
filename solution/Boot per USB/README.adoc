@@ -1,1 +1,39 @@
+== Reboot with USB
 
+  - Create a new Solution -> right click on "My Template" and choose "Offline Device"
+
+image::offline_device.png[]
+
+  - Select "My templates" and enter a Name -> Next
+  
+image::Device_Name.png[]
+
+  - Selet the CPU type you want to reboot -> Next
+  
+image::choose_CPU.png[]
+
+  - Just enable "USB(/usbBulb0) -> Finish
+  
+image::Choose_Memory.png[]
+
+  - Then a USB-device will be created
+  
+image::USB_device.png[]
+
+  - Right click on Template and open it in the FTP-View
+  
+image::FTP_View.png[]
+
+  - insert an empty USB-stick to your PC 
+  - open "/usbBulk0" -> select files and folder -> drag and drop to the USB-stick
+  
+image::Drag_drop.png[]
+
+  - Wait until copy files is finished.
+  
+image::copy.png[]
+
+  - Now you can insert your USB-stick into CPU
+  - Change the Hex-Switches to: H -> PROG and L -> 6
+  - Reboot CPU
+  
