@@ -18,4 +18,5 @@
 == https://github.com/bachmann-m200/howto/blob/master/solution/Boot%20per%20FTP/README.adoc[.. Boot per FTP]
 == https://github.com/bachmann-m200/howto/blob/master/solution/create%20a%20MX%20CAN%20slave/README.adoc[.. Create a MX CAN Slave]
 == https://github.com/bachmann-m200/howto/blob/master/solution/Boot%20per%20USB/README.adoc[.. Boot per USB]
-== https://github.com/bachmann-m200/howto/blob/master/solution/Pairing%20programming%20in%20solutionCenter/README.adoc[..Pair programming]
+== https://github.com/bachmann-m200/howto/blob/master/solution/Pairing%20programming%20in%20solutionCenter/README.adoc[.. Pair programming]
+== https://github.com/bachmann-m200/howto/blob/master/solution/systemupdate/README.adoc[.. Systemupdate]
