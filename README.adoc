@@ -4,3 +4,4 @@
 === https://github.com/bachmann-m200/howto/blob/master/solution/README_SolutionCenter.adoc[.. SolutionCenter]
 === https://github.com/bachmann-m200/howto/blob/master/plc/README.adoc[.. PLC-developer]
 === https://github.com/bachmann-m200/howto/blob/master/cpp/project.adoc[.. C++]
+=== https://github.com/bachmann-m200/howto/blob/master/WebMI/README.adoc[.. WebMi]
