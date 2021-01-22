@@ -27,7 +27,7 @@ image::FTP_View.png[]
   - insert an empty USB-stick to your PC 
   - open "/usbBulk0" -> select files and folder -> drag and drop to the USB-stick
   
-image::Drag_drop.png[]
+image::Drag_Drop.png[]
 
   - Wait until copy files is finished.
   
