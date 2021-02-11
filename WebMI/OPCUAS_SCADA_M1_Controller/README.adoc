@@ -59,3 +59,33 @@ NOTE: If there is no valid license for the OPC UA, enable the DemoMode to run th
 Set the parameters as needed and confirm with finish. The complete description about these parameters are in the manual located in: bachmann\M1sw\doc\OPC UA Server.
 
 The controller needs to reboot to finish the installation and run the OPC UA.
+
+
+=== Step 3. Connect the controller to atvise®scada
+
+Open the builder
+
+Open My Server -> right click 'Data Sources' -> Add Data Source -> OPCUA.
+
+pic 
+
+In the following screen you only need to fill in 'Name' and 'Source URL'.
+The source URL should look like this: opc.tcp://M1 ip-Adr:opcua Server port.
+
+pic2
+
+press 'ok'. 
+
+now double click on the OPCUA connection.
+
+pic4
+
+The following screen should show connection : YES.
+
+pic3
+
+=== Step 4. Getting the SVI variables from the M1-controller to atvise®scada
+
+
+
+
