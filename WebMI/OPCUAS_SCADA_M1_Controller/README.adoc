@@ -40,18 +40,18 @@ After the installation the OPC UA can be installed on the controller.
 
 Go to the Online Device -> Software -> Right click 'Services' -> New -> Service.
 
-
+image::step1.png[]
 
 Choose "Local" and browse to the installation path of the OPCUA.m file.
 Most likely: C:\Bachmann\Mbase\Target-M1\Bootdevice\srv.
 
-
+image::opcua.png[]
 
 Select the opcuas.m file and press next
 
 This will show the following OPCUA configuration window.
 
-pic
+image::opcua2.png[]
 
 NOTE: If there is no valid license for the OPC UA, enable the DemoMode to run the OPC UA.
       This OPC UA Demo will run for two hours, before it has to be restarted. (rebooting PLC)
