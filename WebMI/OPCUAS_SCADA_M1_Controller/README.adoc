@@ -12,8 +12,10 @@ After the installation of atvise®scada, the icon XXX will be shown on your task
 Right click on this icon and choose 'License'.
 
 There are two options to obtain a license:
+
   1. Manual activation
-      Copy the hardware code and send it to your bachmann contact. A license code will be returned,           which has to be copied into the empty field. Confirm with OK
+      Copy the hardware code and send it to your bachmann contact. A license code will be returned,
+      which has to be copied into the empty field. Confirm with OK
       
   2. Online activation
       If you have an atvise account, choose "Online activation" and follow the activation steps.
