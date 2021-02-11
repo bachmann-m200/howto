@@ -22,13 +22,13 @@ The following screen will show.
 image::license_popup.png[]
 There are two options to obtain a license:
 
-  1. Manual activation
+  1 Manual activation
       Copy the hardware code and send it to your bachmann contact. A license code will be returned,
       which has to be copied into the empty field. Confirm with OK
       
 image::result.png[]
       
-  2. Online activation
+  2 Online activation
       If you have an atvise account, choose "Online activation" and follow the activation steps.
       
       
