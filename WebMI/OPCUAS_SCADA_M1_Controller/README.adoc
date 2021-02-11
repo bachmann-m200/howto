@@ -30,5 +30,32 @@ There are two options to obtain a license:
       If you have an atvise account, choose "Online activation" and follow the activation steps.
 
 image::result.png[]
+
+
       
 === Step 2. Installing an OPC UA service on the controller
+
+To install the OPC UA the Bachmann OPCUA_Server.Vx-yy.exe has to be installed.
+After the installation the OPC UA can be installed on the controller.
+
+Go to the Online Device -> Software -> Right click 'Services' -> New -> Service.
+
+
+
+Choose "Local" and browse to the installation path of the OPCUA.m file.
+Most likely: C:\Bachmann\Mbase\Target-M1\Bootdevice\srv.
+
+
+
+Select the opcuas.m file and press next
+
+This will show the following OPCUA configuration window.
+
+pic
+
+NOTE: If there is no valid license for the OPC UA, enable the DemoMode to run the OPC UA.
+      This OPC UA Demo will run for two hours, before it has to be restarted. (rebooting PLC)
+      
+Set the parameters as needed and confirm with finish. The complete description about these parameters are in the manual located in: bachmann\M1sw\doc\OPC UA Server.
+
+The controller needs to reboot to finish the installation and run the OPC UA.
