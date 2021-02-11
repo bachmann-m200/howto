@@ -2,7 +2,7 @@
 
 This guide shows you how to add an OPC UA service on your bachmann PLC and how to make the OPCUA connection between the M1 controller and SCADA.
 
-===Step 1. Getting a license for atvise®scada
+=== Step 1. Getting a license for atvise®scada
 
 First download the latest version of atvise®scada from the following link:
 http://customer.atvise.com/en/customer-area-downloads-en/category/111-atvise-3-5
@@ -21,4 +21,4 @@ There are two options to obtain a license:
       If you have an atvise account, choose "Online activation" and follow the activation steps.
       
       
-===Step 2 Installing an OPC UA service on the controller
+=== Step 2 Installing an OPC UA service on the controller
