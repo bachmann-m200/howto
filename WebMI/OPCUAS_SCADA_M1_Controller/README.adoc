@@ -67,22 +67,22 @@ Open the builder
 
 Open My Server -> right click 'Data Sources' -> Add Data Source -> OPCUA.
 
-pic 
+image::atvise.png[]
 
 In the following screen you only need to fill in 'Name' and 'Source URL'.
 The source URL should look like this: opc.tcp://M1 ip-Adr:opcua Server port.
 
-pic2
+image::atvise2.png[]
 
 press 'ok'. 
 
 now double click on the OPCUA connection.
 
-pic4
+image::atvise4.png[]
 
 The following screen should show connection : YES.
 
-pic3
+image::atvise3.png[]
 
 === Step 4. Getting the SVI variables from the M1-controller to atvise®scada
 
