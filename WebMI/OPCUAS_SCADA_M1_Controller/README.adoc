@@ -67,7 +67,7 @@ Open the builder
 
 Open My Server -> right click 'Data Sources' -> Add Data Source -> OPCUA.
 
-image::atvise.png[]
+image::atvise1.png[]
 
 In the following screen you only need to fill in 'Name' and 'Source URL'.
 The source URL should look like this: opc.tcp://M1 ip-Adr:opcua Server port.
