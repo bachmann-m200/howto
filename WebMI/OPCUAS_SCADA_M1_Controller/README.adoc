@@ -86,6 +86,30 @@ image::atvise3.png[]
 
 === Step 4. Getting the SVI variables from the M1-controller to atvise®scada
 
+To get the SVI variables into Scada, right click on the Data source and "Browse"
 
+image::svi1.png[]
 
+Now you can browse through the M1.
+The software modules are located in 'Objects' -> 'Device'.
 
+image::svi2.png[]
+
+select one or more SVI's and right click 'Copy'
+
+image::svi3.png[]
+
+Right click on 'Objects' -> 'Paste & mirror' -> In/OutPut -> Structure from data source instances.
+
+image::svi4.png[]
+
+Enter a variable name or keep the same name as in the M1 controller by pressing 'Yes' or 'Yes to All'.
+
+image::svi5.png[]
+
+After these steps the variables are connected to atvise®scada and can be used.
+By double clicking on a variable, the changes and parameters will be shown.
+
+image::svi6.png[]
+
+NOTE : without a license the OPCUA service will stop after two hours and atvise®scada will no longer receive the SVI's. Rebooting the PLC will get the OPCUA service back to running.
