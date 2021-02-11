@@ -7,15 +7,20 @@ This guide shows you how to add an OPC UA service on your bachmann PLC and how t
 First download the latest version of atvise®scada from the following link:
 http://customer.atvise.com/en/customer-area-downloads-en/category/111-atvise-3-5
 
-After the installation of atvise®scada, the icon XXX will be shown on your task bar.
+After the installation of atvise®scada, the icon image::atvise monitor icon.png[] will be shown on your task bar.
+
+image::icon_location.png[]
 
 Right click on this icon and choose 'License'.
+image::Right_click.png[]
 
+image::license_popup.png[]
 There are two options to obtain a license:
 
   1. Manual activation
       Copy the hardware code and send it to your bachmann contact. A license code will be returned,
       which has to be copied into the empty field. Confirm with OK
+image::result.png[]
       
   2. Online activation
       If you have an atvise account, choose "Online activation" and follow the activation steps.
