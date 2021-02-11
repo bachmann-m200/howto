@@ -21,4 +21,4 @@ There are two options to obtain a license:
       If you have an atvise account, choose "Online activation" and follow the activation steps.
       
       
-=== Step 2 Installing an OPC UA service on the controller
+=== Step 2. Installing an OPC UA service on the controller
