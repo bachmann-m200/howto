@@ -32,6 +32,7 @@ There are two options to obtain a license:
 image::result.png[]
 
 
+
       
 === Step 2. Installing an OPC UA service on the controller
 
@@ -61,6 +62,8 @@ Set the parameters as needed and confirm with finish. The complete description a
 The controller needs to reboot to finish the installation and run the OPC UA.
 
 
+
+
 === Step 3. Connect the controller to atvise®scada
 
 Open the builder
@@ -83,6 +86,9 @@ image::atvise4.png[]
 The following screen should show connection : YES.
 
 image::atvise3.png[]
+
+
+
 
 === Step 4. Getting the SVI variables from the M1-controller to atvise®scada
 
@@ -112,4 +118,4 @@ By double clicking on a variable, the changes and parameters will be shown.
 
 image::svi6.png[]
 
-NOTE : without a license the OPCUA service will stop after two hours and atvise®scada will no longer receive the SVI's. Rebooting the PLC will get the OPCUA service back to running.
+NOTE: without a license the OPCUA service will stop after two hours and atvise®scada will no longer receive the SVI's. Rebooting the PLC will get the OPCUA service back to running.
