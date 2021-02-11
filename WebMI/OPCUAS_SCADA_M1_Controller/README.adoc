@@ -17,6 +17,8 @@ Right click on this icon and choose 'License'.
 
 image::Right_click.png[]
 
+The following screen will show.
+
 image::license_popup.png[]
 There are two options to obtain a license:
 
