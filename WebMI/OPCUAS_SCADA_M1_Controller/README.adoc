@@ -24,12 +24,11 @@ There are two options to obtain a license:
 
   1. Manual activation
       Copy the hardware code and send it to your bachmann contact. A license code will be returned,
-      which has to be copied into the empty field. Confirm with OK
-      
-image::result.png[]
+      which has to be copied into the empty field. Confirm with OK.
       
   2. Online activation
       If you have an atvise account, choose "Online activation" and follow the activation steps.
-      
+
+image::result.png[]
       
 === Step 2. Installing an OPC UA service on the controller
