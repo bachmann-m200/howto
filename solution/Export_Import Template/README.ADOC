@@ -37,6 +37,7 @@ image::8-TemplateExport.png[]
  image::9-SpeichertOrt.png[]
  
  === 2) Import the templates
+ 
  - Right click on "My templates" -> Import -> Select Solution Project -> Next
  
  image::10-Import.png[]
