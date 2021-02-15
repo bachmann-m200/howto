@@ -16,3 +16,5 @@
 
 == https://github.com/bachmann-m200/howto/blob/master/plc/CNG_Project/README.adoc[.. CNG_Project]
 
+== https://github.com/bachmann-m200/howto/blob/master/plc/Create%20PLC.lib%20in%20C/README.ADOC[.. Create PLC.lib in C/C++]
+
