@@ -57,11 +57,11 @@ image::13-Deploy.png[]
  
  - Select online device with corresponding IP address and name - Finish
  
-image::14-Choosedrive.png[]
+image::14-ChooseDrive.png[]
  
  - Overwriting Device
  
-image::15-Overwriting.png[]
+image::15-Overwrite.png[]
  
  
  
