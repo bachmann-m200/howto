@@ -1,5 +1,5 @@
 === 1) Export the templates
-- right clik on "Online Device" and create Offline device
+- right clik on "Online Device" and create Offline device.
 image::1-OfflineDevice.png[]
 
 - Choose the option -> Next
