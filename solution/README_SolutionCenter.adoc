@@ -20,3 +20,4 @@
 == https://github.com/bachmann-m200/howto/blob/master/solution/Boot%20per%20USB/README.adoc[.. Boot per USB]
 == https://github.com/bachmann-m200/howto/blob/master/solution/Pairing%20programming%20in%20solutionCenter/README.adoc[.. Pair programming]
 == https://github.com/bachmann-m200/howto/blob/master/solution/systemupdate/README.adoc[.. Systemupdate]
+== https://github.com/bachmann-m200/howto/blob/master/solution/Export_Import%20Template/README.ADOC[.. Export/Import Templates]
