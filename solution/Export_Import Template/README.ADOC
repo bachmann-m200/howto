@@ -34,34 +34,34 @@ image::8-TemplateExport.png[]
 
  - Select templates and enter destination archive file -> Finish
  
- image::9-SpeichertOrt.png[]
+image::9-SpeichertOrt.png[]
  
  === 2) Import the templates
  
  - Right click on "My templates" -> Import -> Select Solution Project -> Next
  
- image::10-Import.png[]
+image::10-Import.png[]
  
  - Browse to the *.scte file -> Finish
  
- image::11-ChooseFile.png[]
+image::11-ChooseFile.png[]
  
  ==== Deploy template to controller
  - Set name and IP address in the template -> Save
  
- image::12-IP.png[]
+image::12-IP.png[]
  
  - Deploy templates
  
- image::13-Deploy.png[]
+image::13-Deploy.png[]
  
  - Select online device with corresponding IP address and name - Finish
  
- image::14-Choosedrive.png[]
+image::14-Choosedrive.png[]
  
  - Overwriting Device
  
- image::15-Overwriting.png[]
+image::15-Overwriting.png[]
  
  
  
