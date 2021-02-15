@@ -1,3 +1,10 @@
 === 1) Create a C/C++ Project which include the code of your library
 
 image::create c-projekt.png[]
+
+=== 2) Enter a name of your library and choose Bachmann PLC library with Toolchains 
+- Select "Next" to choose of Sample code or
+- "Finish" to create C-project
+
+image::2-Name.png[]
+
