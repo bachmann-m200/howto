@@ -36,7 +36,7 @@ image::8-TemplateExport.png[]
  
 image::9-SpeichertOrt.png[]
  
- === 2) Import the templates
+=== 2) Import the templates
  
  - Right click on "My templates" -> Import -> Select Solution Project -> Next
  
@@ -46,7 +46,7 @@ image::10-Import.png[]
  
 image::11-ChooseFile.png[]
  
- ==== Deploy template to controller
+==== Deploy template to controller
  - Set name and IP address in the template -> Save
  
 image::12-IP.png[]
