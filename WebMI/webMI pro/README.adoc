@@ -4,6 +4,18 @@ This guide shows you how to add a webMI application on your bachmann PLC, how to
 
 === Step 1. Adding the M1webMI pro key to your bachmann PLC.
 
+After receiving the webMI pro license key from bachmann you can follow these steps, if you haven't received/ordered one please contact Bachmann and we can help you further.
+
+Open solution center > FTP > Remote > Select the PLC the license key is for > CFC0 > keys > paste the key in this folder
+
+image::webmi8.png[]
+
+NOTE: If you have never added a license key, the keys folder doesn't exist. To add this folder: right click on CFC0 > New > Folder > name it 'keys' > press next.
+
+Reboot the PLC and the license is active.
+
+To double check this go to: Online device > Systems > System parameters > Monitor view > License keys.
+
 === Step 2. Adding a mwebMI software module to the PLC.
 
 First open your online device in solution center > Software > Right click applications > New > SW-module.
@@ -14,7 +26,7 @@ Select the latest version of the mwebmi.m file and press next.
 
 image::webmi2.png[]
 
-Turn on run immediately and run permanently and press finish.
+Turn on load and run immediately and press finish.
 
 NOTE: If you open srv you can change the port, enable alarms/history and enable redirect. Enable redirect allows you to just use the ipadress in the browser to get to the webpage.
 
