@@ -8,17 +8,17 @@ This guide shows you how to add a webMI application on your bachmann PLC, how to
 
 First open your online device in solution center > Software > Right click applications > New > SW-module.
 
-image 1
+image::webmi1.png[]
 
 Select the latest version of the mwebmi.m file and press next.
 
-image 2
+image::webmi2.png[]
 
 Turn on run immediately and run permanently and press finish.
 
-note :: If you open srv you can change the port, enable alarms/history and enable redirect. Enable redirect allows you to just use the ipadress in the browser to get to the webpage.
+NOTE: If you open srv you can change the port, enable alarms/history and enable redirect. Enable redirect allows you to just use the ipadress in the browser to get to the webpage.
 
-Image 3
+image::webmi3.png[]
 
 Your software module is now running.
 
@@ -28,21 +28,21 @@ Start the server on atvise.
 
 right click on servers > Add > webmi.
 
-image 4
+image::webmi4.png[]
 
 On the next screen fill in the name of the webmi you like, at hostname type the IP adress of the PLC with the webmi software module and last select M1 webMI pro at type.
 
-image 5
+image::webmi5.png[]
 
-note :: Make sure the paths to the directory's are shown like the image below. If this isn't the case add them manually.
+NOTE: Make sure the paths to the directory's are shown like the image below. If this isn't the case add them manually.
 
-image 6
+image::webmi6.png[]
 
 Now add some objects to the main display and save. 
 
 Right click on your webmi server > Distribute
 
-image 7.
+image::webmi7.png[]
 
 To see the result go to your browser and type the IP adress of the PLC + port 8080. 
 
