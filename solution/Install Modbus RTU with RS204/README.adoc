@@ -42,7 +42,7 @@ image::comdev4.png[]
 
 Press finish
 
-Double click on the ‘MODBUS’ application and go to the ‘mapping’ tab to add all desired varia-bles.
+Now the modbus communication is done via the RS204 com-port instead of the com-port on the PLC.
 
 
 
