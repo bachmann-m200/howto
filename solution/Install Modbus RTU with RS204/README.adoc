@@ -8,11 +8,11 @@ First add the RS204 to your hardware.
 
 Online device > Hardware > right click new > HW-module > RS204
  
-image::comdev1.png[]
+image::comdev.png[]
 
 Change the com 04 settings as you please, this example is shown in the picture below.
 
-image::comdev2.png[]
+image::comdev1.png[]
  
 == Step 2. Adding a mappingfile
 
@@ -26,18 +26,17 @@ To install the software module modbus.m.
 
 Go to online device > software > applications > right click new > SW-module > select mod-bus.m > next
 
-image::comdev3.png[]
+image::comdev2.png[]
 
 Tick load and run immediately. Go to modbus select protocol : MODBUS RTU. At the ComDevice type /tyCo/1/4. (explanation: /tyCo/modulenumber/com-port, so say you want to use the com1 port on the PLC (module 1) we type /tyCo/0/1/)
 
 In this example the RS204 is on module 1 so the settings look like this:
 
-image::comdev4.png[]
+image::comdev3.png[]
  
-
 For the last step go to mappings and tick on ‘UseMappingFile’ and select the mbSlv.csv file we created before.
  
-image 5
+image::comdev4.png[]
 
 Press finish
 
