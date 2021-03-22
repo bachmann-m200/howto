@@ -1,6 +1,6 @@
 == How to configure MX200/C to NativeCAN ?
  
- - Open the MI controller in the FTP view
+ - Open the M1 controller in the FTP view
  - Delete the file 'mx200c.m' under folder /DRV on the boot medium
  - Copy the following file to the /DRV directory => C:/bachann/M1sw/target-m1/optional/mx_can.m
  - Open the mconfig.ini file and enter the following configuration under Driver: +
