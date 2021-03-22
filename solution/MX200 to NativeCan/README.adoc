@@ -12,4 +12,6 @@
         -> Baudrate = 500 +
         
  - Reboot the M1 controller 
+ 
+image::NativeCAN.gif[]
 
