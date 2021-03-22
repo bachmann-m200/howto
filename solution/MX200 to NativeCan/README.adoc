@@ -13,5 +13,5 @@
         
  - Reboot the M1 controller 
  
-image::NativeCAN.gif[]
+image::NativeCan.gif[]
 
