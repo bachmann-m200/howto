@@ -3,13 +3,13 @@
  - Open the MI controller in the FTP view
  - Delete the file 'mx200c.m' under folder /DRV on the boot medium
  - Copy the following file to the /DRV directory => C:/bachann/M1sw/target-m1/optional/mx_can.m
- - Open the mconfig.ini file and enter the following configuration under Driver:
-        -> (Card2)
-        -> SlotNb = 2
-        -> StationNb = 1
-        -> Mode = Real
-        -> DriverName = mx_can
-        -> Baudrate = 500
+ - Open the mconfig.ini file and enter the following configuration under Driver: +
+        -> (Card2) +
+        -> SlotNb = 2 +
+        -> StationNb = 1 +
+        -> Mode = Real +
+        -> DriverName = mx_can +
+        -> Baudrate = 500 +
         
  - Reboot the M1 controller 
 
