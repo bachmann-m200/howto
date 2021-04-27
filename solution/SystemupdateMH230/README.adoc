@@ -1,0 +1,28 @@
+=== Softwareupdate
+
+  a) Recht Klick auf Online Device -> Systemupdate
+  
+image::1.png[]
+  
+  b) Systemkatalog auswählen -> Weiter
+  
+image::2.png[]
+
+  c) Systemsoftware auswählen -> Fertigstellen
+  
+image::3.png[]
+  
+  d) CPU neu starten
+  
+=== Firmwareupdate
+
+  - gleiche Schritte wie a) und b) oben
+  - Softwareupdate überspringen -> weiter
+  
+image::4.png[]
+
+  - Firmware auswählen -> Fertigstellen
+  
+image::5.png[]
+  
+  - CPU neu starten
