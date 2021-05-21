@@ -1,1 +1,16 @@
+== Update the installation programme via USB
 
+  - download the programme to be installed -> extract the zip-compressed folder -> run the .exe file
+  - Choose the disk drive to write the image file to (USB-disk) -> create
+  
+image::select disk drive.png[]
+  
+  - Writing the Linux image file to USB will start automatically
+  
+image::Self Extractor.png[]
+  
+  - A confirmation is returned after successful writing
+  
+image::Successfully created.png[]
+
+  - Unplug USB from computer and plug it on OT1xxx and restart it
