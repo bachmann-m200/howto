@@ -1,4 +1,4 @@
-== Update the installation programme via USB
+== Boot OT via USB
 
   - download the programme to be installed -> extract the zip-compressed folder -> run the .exe file
   - Choose the disk drive to write the image file to (USB-disk) -> create
