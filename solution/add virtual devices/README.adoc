@@ -1,3 +1,5 @@
 == Add virtual devices
 
+The animation below shows how you can create a virtual offline device and how you can create/delete virtual modules for a device.
+
 image::virtualDevices.gif[]
