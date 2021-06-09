@@ -2,7 +2,7 @@
 
 Simple C++ example application on how to create a SVI Server, SVI Client and MIO (digital and analog input/output).
 
-=== Importing the example program
+=== Importing and running the example program
 
 image::importAndUploadProject.gif[]
 
