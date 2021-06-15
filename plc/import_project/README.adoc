@@ -1,0 +1,17 @@
+
+=== import a project from zip-file
+
+===== 1. choose File -> import in you solution center workspace
+image::step1.gif[]
+
+	
+===== 2. select General -> Existing Project into workspace 
+image::step2.gif[]
+
+[NOTE]
+if needed you can use the search box to get the correct one.
+
+
+===== 3. Browse to the zip file select the files to import and confirm with OK
+image::step3.gif[]
+
