@@ -1,1 +1,12 @@
+== Insatlling MQTT on MX2xx
 
+For the installation of "mqtt", the following must be observed in the application
+
+  - The openssl.o must be present on the system, even if the client does not use any security at all.
+  - mqtt, openssl and MxCCore or MxCCore.all must come from the same M-Base otherwise the software module will not start properly and the SPS will boot "rot".
+  - `Use extended OS´ must be activated: System -> Boot parameters -> Boot Settings -> Advanced -> save.
+  - If the software module does not start correctly, a system update is required
+  
+  
+  
+image::mqtt.gif[]
