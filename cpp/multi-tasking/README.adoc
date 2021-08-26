@@ -1,0 +1,6 @@
+
+C{plus}{plus} example application on how to create an event based task and a cyclic task in one application. Events can for instance be triggered by reading or writing to the SVI variable "AVirtualValue". Furthermore, the example shows how the core category can be set for each task and how data can be shared between the tasks. Please note, that this example application does not synchronize the tasks when sharing data and a read/write may happen at the same time. The implementation can be found in the "cyclic_app.cpp", "cyclic_app.hpp", "event_app.cpp", "event_app.hpp", "event_mod.cpp". All the other files are from the default C{plus}{plus} template. 
+
+=== Importing and running the example program
+
+image::importAndUploadProject.gif[]
