@@ -3,4 +3,4 @@ C{plus}{plus} example application on how to create an event based task and a cyc
 
 === Importing and running the example program
 
-image::../SVI Server + SVI Client + MIO/importAndUploadProject.gif[]
+See SVI Server + SVI Client + MIO example on how to import C++ projects
