@@ -2,4 +2,6 @@ C{plus}{plus} example application on how to create an event based task and a cyc
 
 === Importing and running the example program
 
-See SVI Server + SVI Client + MIO example on how to import C++ projects
+:uri-import-cpp: https://github.com/bachmann-m200/howto/tree/master/cpp/SVI%20Server%20%2B%20SVI%20Client%20%2B%20MIO
+
+See {uri-import-cpp}[SVI Server + SVI Client + MIO] example on how to import C++ projects
