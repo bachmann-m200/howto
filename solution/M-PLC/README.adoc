@@ -25,7 +25,7 @@ image::MPLC4.png[]
 
 === Step 3. Importing the new hardware configuration
 
-extras > Load configuration from SolutionCenter > select .hwconf file > open. 
+Extras > Load configuration from SolutionCenter > select .hwconf file > open. 
 
 This results in a correctly imported hardware configuration 
 
