@@ -1,9 +1,11 @@
-== Running an M-PLC program
+== Exporting an existing hardware configuration from solutioncenter and importing it to M-PLC
 
+=== Step 1. Exporting the hardware configuration via solutioncenter.
 
-
+In SolutionCenter > File > Export > Solution > PLC Hardware Configuration > Select desired PLC > Save the file (.hwconfig).
+ 
 image::[]
 
-  - Select "My templates" and enter a Name -> Next
+
   
 image::[]
