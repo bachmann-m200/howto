@@ -2,10 +2,31 @@
 
 === Step 1. Exporting the hardware configuration via solutioncenter.
 
-In SolutionCenter > File > Export > Solution > PLC Hardware Configuration > Select desired PLC > Save the file (.hwconfig).
+In SolutionCenter > File > Export 
  
 image::MPLC1.png[]
 
-
+Select Solution > PLC Hardware Configuration > Select desired PLC > Save the file (.hwconfig).
   
 image::MPLC2.png[]
+
+
+=== Step 2. Clearing M-PLC's current hardware configuration
+
+This step is necessary because it might otherwise go wrong during the import.
+
+Open M-PLC > Resources 
+
+image::MPLC3.png[]
+
+Click on PLC Configuration > Extras > standard configuration > Select "Yes"
+
+image::MPLC4.png[]
+
+=== Step 3. Importing the new hardware configuration
+
+extras > Load configuration from SolutionCenter > select .hwconf file > open. 
+
+This results in a correctly imported hardware configuration 
+
+image::MPLC5.png[]
