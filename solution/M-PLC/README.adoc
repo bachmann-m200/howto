@@ -4,8 +4,8 @@
 
 In SolutionCenter > File > Export > Solution > PLC Hardware Configuration > Select desired PLC > Save the file (.hwconfig).
  
-image::[]
+image::MPLC1.jpg[]
 
 
   
-image::[]
+image::MPLC2.jpg[]
