@@ -34,6 +34,7 @@ image::Drag_Drop.png[]
 image::copy.png[]
 
   - Now you can insert your USB-stick into CPU
-  - Change the Hex-Switches to: H -> PROG and L -> 6
+  - open the mconfig.ini and adjust the right IP-address
+  - Change the Hex-Switches from CPU to: H -> PROG and L -> 6
   - Reboot CPU
   
