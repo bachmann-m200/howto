@@ -4,8 +4,6 @@ This guide shows your how to change the background image that you see when start
 
  .  	Find a desired background image and save this image as the required name for the specific OT, For example an OT1210's file is named ‘1280x800.jpg’.
  
- .OT resolutions
- [NOTE] 
  ====
  OT1207/1207+ = 800x480
  OT1210/OT1210+ = 1280x800
