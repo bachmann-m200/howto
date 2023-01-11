@@ -1,4 +1,4 @@
-== Changing the start up background
+== Changing the start up background on a Linux OT
 
 This guide shows your how to change the background image that you see when starting up an OT. 
 
