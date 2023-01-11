@@ -1,0 +1,17 @@
+== Changing the start up background
+
+  - I.  	Find a desired background image and save this image as ‘1280x800.jpg’.
+
+  - II. 	Using the FTP in solutioncenter, drag and drop this file from your pc to the OT in the directory called /home/vis.
+  
+  - III.	Make a connection with the OT via putty, Login with the following credentials username: vis Password: bachmann.
+  
+  - IV.	  Type ‘ls’, you should now be in the /home/vis directory (you could recognize this by checking if the lconfig.ini file is there).
+  
+  - V.  	If you are in /home/vis, type ‘cd ../..’. To check type ‘ls’, you should now see the usr folder here.
+  
+  - VI.	  Now type: ‘mv /home/vis/1280x800.jpg /usr/share/bachmann-config’ 
+  
+  - VII.	Reboot the OT and if the steps are followed the background image should now have changed to your desired image.
+
+
