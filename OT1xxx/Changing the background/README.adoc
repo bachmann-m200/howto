@@ -5,10 +5,10 @@ This guide shows your how to change the background image that you see when start
  .  	Find a desired background image and save this image as the required name for the specific OT, For example an OT1210's file is named ‘1280x800.jpg’.
  
  OT resolutions:
- OT1207/1207+ = 800x480
- OT1210/OT1210+ = 1280x800
- OT1212 = 1280x800
- OT1215/OT1215+ = 1920x1080
+ OT1207/1207+   =  800x480
+ OT1210/OT1210+ =  1280x800
+ OT1212         =  1280x800
+ OT1215/OT1215+ =  1920x1080
 
 
  . 	Using the FTP in solutioncenter, drag and drop this file from your pc to the OT in the directory called /home/vis.
