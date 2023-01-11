@@ -1,6 +1,8 @@
 == Changing the start up background
 
- .  	Find a desired background image and save this image as ‘1280x800.jpg’.
+This guide shows your how to change the background image that you see when starting up an OT. 
+
+ .  	Find a desired background image and save this image as the required name for the specific OT, For example an OT1210's file is named ‘1280x800.jpg’.
 
  . 	Using the FTP in solutioncenter, drag and drop this file from your pc to the OT in the directory called /home/vis.
   
