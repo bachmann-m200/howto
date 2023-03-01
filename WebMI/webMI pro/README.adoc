@@ -1,4 +1,4 @@
-== M1webMI pro guide
+== M1webMI Pro guide
 
 This guide shows you how to add a webMI application on your bachmann PLC, how to add a webMI in atvise and how to distribute it.
 
