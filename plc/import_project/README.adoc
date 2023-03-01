@@ -1,5 +1,5 @@
 
-=== import a project from zip-file
+=== Import a project from zip-file
 
 ===== 1. choose File -> import in you solution center workspace
 image::step1.gif[]
