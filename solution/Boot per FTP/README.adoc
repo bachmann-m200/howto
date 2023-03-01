@@ -14,3 +14,4 @@ FRTA_MX213 is booted via FTP
 	
 image::FTP_Boot.gif[]
 	
+	
